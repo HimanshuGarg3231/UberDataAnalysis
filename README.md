@@ -12,3 +12,5 @@ Generated a report.
 
 
 This project is mainly to see the pyspark transformations, not for data analysis.
+
+You can download the trip data from https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
