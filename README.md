@@ -9,3 +9,6 @@ Created one main fact table from that newly created tables.
 Stored that new dataframe into postgresql.
 Connected Power BI with PostgreSql.
 Generated a report.
+
+
+This project is mainly to see the pyspark transformations, not for data analysis.
